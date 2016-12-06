@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Server.java&apos; to &apos;MultiThreadedServer.java&apos;&#x0D;&#x0A;- Original project: &apos;Transactions&apos;&#x0D;&#x0A;- Original element: &apos;Server.java&apos;&#x0D;&#x0A;- Renamed element: &apos;MultiThreadedServer.java&apos;" description="Rename compilation unit &apos;Server.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Server.java" name="MultiThreadedServer.java" references="false" stamp="1481020006489" version="1.0"/>
+</session>
